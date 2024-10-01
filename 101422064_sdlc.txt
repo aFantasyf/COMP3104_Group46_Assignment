@@ -1,1 +1,2 @@
-DevOps is important because enables faster development of new products and easier maintenance of existing deployments
+DevOps is important because enables faster development of new products and easier maintenance of existing deployments.
+DevOps promotes shorter, more controllable iterations through the adoption of best practices, automation and new tools.
