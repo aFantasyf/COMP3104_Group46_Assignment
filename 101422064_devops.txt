@@ -1,1 +1,2 @@
 It is our course that will be taken during Fall 2024 in an online method.
+In this course, we will learn the procedures, protocols and best practices that a DevOps engineer brings to a workplace environment to increase productivity
