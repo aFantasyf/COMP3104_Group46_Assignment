@@ -1,0 +1,2 @@
+The importance of learning DevOps is well known in the programming world. We need to know DevOps 
+because we have to work with other developers, companies, and even ourselves. 

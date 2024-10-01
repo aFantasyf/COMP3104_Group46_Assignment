@@ -1,0 +1,2 @@
+Devops is a class where we learn how to use command line, bash, and github. It's really important 
+to our future as developers. 
