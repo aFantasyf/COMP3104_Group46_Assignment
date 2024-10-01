@@ -1,5 +1,3 @@
  The importance of learning DevOps is well known in the programming world. We need to know DevOps 
 because we have to work with other developers, companies, and even ourselves. 
 Devops is also important because we have to learn how files work behind the scenes. 
-
-I hope to do well in this course
