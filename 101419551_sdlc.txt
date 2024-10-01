@@ -1,0 +1,1 @@
+It allows us to collaborate with other programmers, we get to learn how to use git. It allows efficiency for everyone

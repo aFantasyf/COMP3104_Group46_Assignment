@@ -1,4 +1,5 @@
 # COMP3104_Group46_Assignment 
+<<<<<<< HEAD
 
 ## Group Members
 - **Leader:** Aayan Farooqui (101359123) - [GitHub](https://github.com/aFantasyf)
@@ -19,3 +20,6 @@ in `.github/workflows/ci.yml`.
 Everyone in the group must have their own branch named after their 
 student id and name with a dash. Then after that all the chages are merged into the `main` branch 
 using the Pull Requests.
+=======
+test
+>>>>>>> 3e6ca7a3df98921fd17798c54345c9ef3b3f318e
