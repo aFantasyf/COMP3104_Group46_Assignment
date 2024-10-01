@@ -1,2 +1,3 @@
 devops is a course teaching students about the importance of version control
 
+our professor in this course is Pritesh Patel
