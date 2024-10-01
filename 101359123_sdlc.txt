@@ -1,2 +1,3 @@
 the importance of learning devops in the software devopment cycle is to not get confused and merge hell
 
+its also important because it promotes collaboration
