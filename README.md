@@ -1,5 +1,4 @@
 # COMP3104_Group46_Assignment 
-<<<<<<< HEAD
 
 ## Group Members
 - **Leader:** Aayan Farooqui (101359123) - [GitHub](https://github.com/aFantasyf)
@@ -8,7 +7,7 @@
 - **Member 4:** Edwin Chung (101422064) - [GitHub](https://github.com/edwinchung03)
 ## Project Description
 This assignment 1 makes it so you have to collaborate with your classmates to strategize branching,
-CI/CD integration, updating and committing files.
+CI/CD integration, updating and committing files. Each person has a set of tasks to do, we all had to create 3 files, and complete 10 commits
 ## Setup Instructions
 1. Clone the repository.
 2. Switch to your branch using `git checkout STUDENTID-Name`.
