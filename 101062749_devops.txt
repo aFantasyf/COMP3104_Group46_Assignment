@@ -2,6 +2,5 @@ Devops is a class where we learn how to use command line, bash, and github. It's
 to our future as developers. 
 
 DevOps has a promising future for a career as cloud development continues to gain popularity
-Some people can even be cloud managers
 
 Devops works to make a lot of process automatic
