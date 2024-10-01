@@ -1,3 +1,5 @@
 devops is a course teaching students about the importance of version control
 
 our professor in this course is Pritesh Patel
+
+its also really important because it teaches us how to use git and gitbash
