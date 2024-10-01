@@ -1,0 +1,2 @@
+devops is a course teaching students about the importance of version control
+
